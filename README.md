@@ -1,5 +1,5 @@
 # Machine_learning
-This repository is meant to showcase some of the more advance machine learning methods that I have learned. This code speciffically documents the general things that I learned in a class(ECE 539) I took during my masters degree, which focuses on Artificial Neural Networks.
+This repository is meant to showcase some of the more advance methods that I have learned relating to Artifical Neural Networks. This code specifically documents the general things that I learned in the class(ECE 539) which I took during my masters degree.
 
 Some of the topics that are covered here are:
 
